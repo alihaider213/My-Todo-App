@@ -1,0 +1,22 @@
+$primaryColorAuth: #6D9AC4;
+$buttonColorAuth: #EB789C;
+.auth{
+    background-color:$primaryColorAuth ;
+    min-height: 100vh;
+    padding: 60px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+//     button{
+//         background-color: $buttonColorAuth;
+//         color: white;
+//         &:hover{
+//             color: white !important;
+//         }
+//         &:focus{
+//             color: white !important;
+//         }
+//     }
+
+// }
+}
